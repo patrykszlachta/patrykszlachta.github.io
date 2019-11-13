@@ -1,0 +1,126 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.inspiration h2,
+.about-us h2 {
+    color: #000;
+}
+.main-section {
+    background-image: url('../background-image.png');
+    background-size: cover;
+   
+}
+
+.navbar-color {
+    background-color:  #444;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+color:#c2c2c2;
+transition: all 0.4s;
+}
+
+.navbar-light .navbar-brand:hover,
+.navbar-light .container .navbar-nav .nav-item .nav-link:hover {
+    color:#fff;
+}
+
+.container-fluid{
+    padding: 100px;
+}
+
+.form-header {
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 10px 25px 10px 25px;
+    color:   #fff ;
+    width: 100%;
+}
+
+.form-header p {
+    color: #c2c2c2 ;
+    margin-left: 15px;
+}
+
+
+.div-form {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px 25px 10px 25px;
+}
+.input {
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px 25px 10px 25px;
+    margin-top: 10px;
+    
+}
+
+
+.text-color-white {
+    color: #fff;
+}
+.btn-orange {
+   background-color: #e38f42;
+   color: #fff;
+   margin-top: 7px;
+   border: solid #e38f42;
+}
+
+
+
+.btn-orange {
+    color: #fff;
+}
+.btn-orange:hover {
+    opacity: 0.7;
+    color: #fff;
+} 
+
+
+.btn-opacity {
+    color: #fff;
+    margin-top: 7px;
+    background-color: rgba(0, 0, 0, 0.35);
+    margin-left: 10px;
+    
+}
+
+.btn-opacity:hover {
+    color: #fff;
+    opacity: 0.7;
+}
+
+.privace {
+    color: #fff;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.text-color {
+    color: #888;
+}
+.container-fluid a,
+.privace a,
+.container a,
+.about-us a {
+    color: #e38f42;
+}
+
+
+.margin-top {
+    margin-top: 120px;
+}
+
+.background-color-footer {
+    background-color: #f8f8f8;
+}
+
+
+.div-form-header {
+    margin-top: 20px;
+}
